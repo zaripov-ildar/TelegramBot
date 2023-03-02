@@ -1,0 +1,5 @@
+server:
+  port: 8081
+bot:
+  username: exchanger_borg_bot
+  token: 6213412901:AAG4KAf3OwKQpMWyafE8g5rk0ziMVmRcZ1I
